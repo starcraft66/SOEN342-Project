@@ -4,7 +4,7 @@
 We are MTLStudy, an E-Academy providing tutoring services to undergraduate students at any academic institution in Montreal. We primarily offer our services through our online transactional website. We employ a small number of full or part time tutors. We allow freelance tutors to offer services via our online platform as independent contractors. 
 
 ## Objective
-The objective of this project is to create an online tutoring service platform for undergraduate students in Montreal that would allow students and parents to contact the necessary tutors for help in the appropriate subjects and courses. Another objective is to unique features to our online platform to differentiate ourselves from other existing products and platforms already available on the market.
+The objective of this project is to create an online tutoring service platform for undergraduate students in Montreal that would allow students and parents to contact the necessary tutors for help in the appropriate subjects and courses. Along with this, another objective is to give teachers a platform where the can offer their own expertise the way they feel fit. Another objective is to unique features to our online platform to differentiate ourselves from other existing products and platforms already available on the market.
 
 ## features
 On our platform, tutors can sign up and set their own tutoring prices and the platform simply takes a cut from it. Tutors also have a complete online dashboard where they can chat with students, exchange documents and have voice/video calls. Administrators have dashboards to oversee the operation as a whole in terms of monitoring student and tutor activity. An administrative dashboard allows administrators to ban students and tutors, should they be in breach of platform policies. A final administrative dashboard is also available to administrators to get financial insight over the operation and find out if the platform is profitable.
@@ -39,3 +39,4 @@ There will be three distinct types of users, each with the following feature set
 - Wassim Nijaoui @
 - Jean-Claude Abou-Elias @
 - Ricky Jr Mungcal @raccoonrick
+- Brayden Tsitirides @tsitirides
